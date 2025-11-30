@@ -1,0 +1,9 @@
+{
+    "enabled": false,
+    "admin_ips": [
+        "::1",
+        "192.168.10.8"
+    ],
+    "toggled_at": "2025-11-30 02:16:20",
+    "toggled_by": "daniela"
+}
